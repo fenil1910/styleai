@@ -1,0 +1,2 @@
+# styleai
+My haicut website
